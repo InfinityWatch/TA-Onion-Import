@@ -5,4 +5,4 @@ This add-on contains 64 unique inputs, one for Suricata's EVE log while also acc
 
 This add-on also creates 46 unique indexes ((1) Suricata & (45) Zeek)
 
-Use this add-on with [TA-Zeek](https://github.com/InfinityWatch/TA-Zeek) and [TA for Suricata](https://splunkbase.splunk.com/app/4242/) to parse your imported Zeek data!
+Use this add-on with [TA-Zeek](https://github.com/InfinityWatch/TA-Zeek) and [TA for Suricata](https://splunkbase.splunk.com/app/4242/) to parse your imported Zeek and Suricata data!
